@@ -1,0 +1,431 @@
+
+Bug during user login: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.GameClients.GameClient.TryLogin(String authTicket) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\GameClients\GameClient.cs:line 186
+
+
+Bug during user login: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.GameClients.GameClient.TryLogin(String authTicket) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\GameClients\GameClient.cs:line 186
+
+
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Plus.HabboHotel.PathFinding.PathFinder.FindPathReversed(RoomUser RoomUserable, Boolean WhatIsDiag, Gamemap GameLocalMap, Vector2D StartMap, Vector2D EndMap) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Pathfinding\PathFinder.cs:line 83
+   at Plus.HabboHotel.PathFinding.PathFinder.FindPath(RoomUser user, Boolean diag, Gamemap map, Vector2D start, Vector2D end) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Pathfinding\PathFinder.cs:line 54
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle(Int32& idleCount) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\RoomUserManager.cs:line 1367
+   at Plus.HabboHotel.Rooms.Room.ProcessRoom() in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\Room.cs:line 741
+
+
+Error during removing user from room:System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Plus.HabboHotel.Rooms.RoomUserManager.RemoveRoomUser(RoomUser user) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\RoomUserManager.cs:line 468
+   at Plus.HabboHotel.Rooms.RoomUserManager.RemoveUserFromRoom(GameClient session, Boolean notifyClient, Boolean notifyKick) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\RoomUserManager.cs:line 431
+
+
+Error during removing user from room:System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Plus.HabboHotel.Rooms.RoomUserManager.RemoveRoomUser(RoomUser user) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\RoomUserManager.cs:line 468
+   at Plus.HabboHotel.Rooms.RoomUserManager.RemoveUserFromRoom(GameClient session, Boolean notifyClient, Boolean notifyKick) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\RoomUserManager.cs:line 431
+
+
+Error during removing user from room:System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Plus.HabboHotel.Rooms.RoomUserManager.RemoveRoomUser(RoomUser user) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\RoomUserManager.cs:line 468
+   at Plus.HabboHotel.Rooms.RoomUserManager.RemoveUserFromRoom(GameClient session, Boolean notifyClient, Boolean notifyKick) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\RoomUserManager.cs:line 431
+
+
+Error during removing user from room:System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Plus.HabboHotel.Rooms.RoomUserManager.RemoveRoomUser(RoomUser user) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\RoomUserManager.cs:line 468
+   at Plus.HabboHotel.Rooms.RoomUserManager.RemoveUserFromRoom(GameClient session, Boolean notifyClient, Boolean notifyKick) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\RoomUserManager.cs:line 431
+
+
+Bug during user login: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.GameClients.GameClient.TryLogin(String authTicket) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\GameClients\GameClient.cs:line 186
+
+
+Error during removing user from room:System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Plus.HabboHotel.Rooms.RoomUserManager.RemoveRoomUser(RoomUser user) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\RoomUserManager.cs:line 468
+   at Plus.HabboHotel.Rooms.RoomUserManager.RemoveUserFromRoom(GameClient session, Boolean notifyClient, Boolean notifyKick) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\RoomUserManager.cs:line 431
+
+
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Plus.HabboHotel.PathFinding.PathFinder.FindPathReversed(RoomUser RoomUserable, Boolean WhatIsDiag, Gamemap GameLocalMap, Vector2D StartMap, Vector2D EndMap) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Pathfinding\PathFinder.cs:line 83
+   at Plus.HabboHotel.PathFinding.PathFinder.FindPath(RoomUser user, Boolean diag, Gamemap map, Vector2D start, Vector2D end) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Pathfinding\PathFinder.cs:line 54
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle(Int32& idleCount) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\RoomUserManager.cs:line 1369
+   at Plus.HabboHotel.Rooms.Room.ProcessRoom() in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\Room.cs:line 741
+
+
+Error during removing user from room:System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Plus.HabboHotel.Rooms.RoomUserManager.RemoveRoomUser(RoomUser user) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\RoomUserManager.cs:line 468
+   at Plus.HabboHotel.Rooms.RoomUserManager.RemoveUserFromRoom(GameClient session, Boolean notifyClient, Boolean notifyKick) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\RoomUserManager.cs:line 431
+
+
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Plus.HabboHotel.PathFinding.PathFinder.FindPathReversed(RoomUser RoomUserable, Boolean WhatIsDiag, Gamemap GameLocalMap, Vector2D StartMap, Vector2D EndMap) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Pathfinding\PathFinder.cs:line 83
+   at Plus.HabboHotel.PathFinding.PathFinder.FindPath(RoomUser user, Boolean diag, Gamemap map, Vector2D start, Vector2D end) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Pathfinding\PathFinder.cs:line 54
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle(Int32& idleCount) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\RoomUserManager.cs:line 1369
+   at Plus.HabboHotel.Rooms.Room.ProcessRoom() in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\Room.cs:line 741
+
+
+Error during removing user from room:System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Plus.HabboHotel.Rooms.RoomUserManager.RemoveRoomUser(RoomUser user) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\RoomUserManager.cs:line 468
+   at Plus.HabboHotel.Rooms.RoomUserManager.RemoveUserFromRoom(GameClient session, Boolean notifyClient, Boolean notifyKick) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\RoomUserManager.cs:line 431
+
+
+Error during removing user from room:System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Plus.HabboHotel.Rooms.RoomUserManager.RemoveRoomUser(RoomUser user) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\RoomUserManager.cs:line 468
+   at Plus.HabboHotel.Rooms.RoomUserManager.RemoveUserFromRoom(GameClient session, Boolean notifyClient, Boolean notifyKick) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\RoomUserManager.cs:line 431
+
+
+Error during removing user from room:System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Plus.HabboHotel.Rooms.RoomUserManager.RemoveRoomUser(RoomUser user) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\RoomUserManager.cs:line 468
+   at Plus.HabboHotel.Rooms.RoomUserManager.RemoveUserFromRoom(GameClient session, Boolean notifyClient, Boolean notifyKick) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\RoomUserManager.cs:line 431
+
+
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle(Int32& idleCount) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\RoomUserManager.cs:line 1469
+   at Plus.HabboHotel.Rooms.Room.ProcessRoom() in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\Room.cs:line 741
+
+
+Bug during user login: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.GameClients.GameClient.TryLogin(String authTicket) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\GameClients\GameClient.cs:line 186
+
+
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Plus.HabboHotel.PathFinding.PathFinder.FindPathReversed(RoomUser RoomUserable, Boolean WhatIsDiag, Gamemap GameLocalMap, Vector2D StartMap, Vector2D EndMap) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Pathfinding\PathFinder.cs:line 83
+   at Plus.HabboHotel.PathFinding.PathFinder.FindPath(RoomUser user, Boolean diag, Gamemap map, Vector2D start, Vector2D end) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Pathfinding\PathFinder.cs:line 54
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle(Int32& idleCount) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\RoomUserManager.cs:line 1369
+   at Plus.HabboHotel.Rooms.Room.ProcessRoom() in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\Room.cs:line 741
+
+
+Error during removing user from room:System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Plus.HabboHotel.Rooms.RoomUserManager.RemoveRoomUser(RoomUser user) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\RoomUserManager.cs:line 468
+   at Plus.HabboHotel.Rooms.RoomUserManager.RemoveUserFromRoom(GameClient session, Boolean notifyClient, Boolean notifyKick) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\RoomUserManager.cs:line 431
+
+
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Plus.HabboHotel.PathFinding.PathFinder.FindPathReversed(RoomUser RoomUserable, Boolean WhatIsDiag, Gamemap GameLocalMap, Vector2D StartMap, Vector2D EndMap) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Pathfinding\PathFinder.cs:line 83
+   at Plus.HabboHotel.PathFinding.PathFinder.FindPath(RoomUser user, Boolean diag, Gamemap map, Vector2D start, Vector2D end) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Pathfinding\PathFinder.cs:line 54
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle(Int32& idleCount) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\RoomUserManager.cs:line 1369
+   at Plus.HabboHotel.Rooms.Room.ProcessRoom() in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\Room.cs:line 741
+
+
+Error during removing user from room:System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Plus.HabboHotel.Rooms.RoomUserManager.RemoveRoomUser(RoomUser user) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\RoomUserManager.cs:line 468
+   at Plus.HabboHotel.Rooms.RoomUserManager.RemoveUserFromRoom(GameClient session, Boolean notifyClient, Boolean notifyKick) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\RoomUserManager.cs:line 431
+
+
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Plus.HabboHotel.PathFinding.PathFinder.FindPathReversed(RoomUser RoomUserable, Boolean WhatIsDiag, Gamemap GameLocalMap, Vector2D StartMap, Vector2D EndMap) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Pathfinding\PathFinder.cs:line 83
+   at Plus.HabboHotel.PathFinding.PathFinder.FindPath(RoomUser user, Boolean diag, Gamemap map, Vector2D start, Vector2D end) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Pathfinding\PathFinder.cs:line 54
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle(Int32& idleCount) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\RoomUserManager.cs:line 1369
+   at Plus.HabboHotel.Rooms.Room.ProcessRoom() in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\Room.cs:line 741
+
+
+Error during removing user from room:System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Plus.HabboHotel.Rooms.RoomUserManager.RemoveRoomUser(RoomUser user) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\RoomUserManager.cs:line 468
+   at Plus.HabboHotel.Rooms.RoomUserManager.RemoveUserFromRoom(GameClient session, Boolean notifyClient, Boolean notifyKick) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\RoomUserManager.cs:line 431
+
+
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Plus.HabboHotel.PathFinding.PathFinder.FindPathReversed(RoomUser RoomUserable, Boolean WhatIsDiag, Gamemap GameLocalMap, Vector2D StartMap, Vector2D EndMap) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Pathfinding\PathFinder.cs:line 83
+   at Plus.HabboHotel.PathFinding.PathFinder.FindPath(RoomUser user, Boolean diag, Gamemap map, Vector2D start, Vector2D end) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Pathfinding\PathFinder.cs:line 54
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle(Int32& idleCount) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\RoomUserManager.cs:line 1369
+   at Plus.HabboHotel.Rooms.Room.ProcessRoom() in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\Room.cs:line 741
+
+
+Error during removing user from room:System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Plus.HabboHotel.Rooms.RoomUserManager.RemoveRoomUser(RoomUser user) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\RoomUserManager.cs:line 468
+   at Plus.HabboHotel.Rooms.RoomUserManager.RemoveUserFromRoom(GameClient session, Boolean notifyClient, Boolean notifyKick) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\RoomUserManager.cs:line 431
+
+
+SYSTEM CRITICAL EXCEPTION: System.TimeoutException: Timeout in IO operation
+   at MySql.Data.MySqlClient.TimedStream.StopTimer()
+   at MySql.Data.MySqlClient.TimedStream.Read(Byte[] buffer, Int32 offset, Int32 count)
+   at System.IO.BufferedStream.Read(Byte[] array, Int32 offset, Int32 count)
+   at MySql.Data.MySqlClient.MySqlStream.ReadFully(Stream stream, Byte[] buffer, Int32 offset, Int32 count)
+   at MySql.Data.MySqlClient.MySqlStream.LoadPacket()
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.ReadOk(Boolean read)
+   at MySql.Data.MySqlClient.MySqlConnection.ChangeDatabase(String databaseName)
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at Plus.Database.DatabaseManager.GetQueryReactor()
+   at Plus.HabboHotel.Misc.LowPriorityWorker.Process(Object caller) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Misc\LowPriorityWorker.cs:line 72
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.TimerQueueTimer.CallCallback()
+   at System.Threading.TimerQueueTimer.Fire()
+   at System.Threading.TimerQueue.FireNextTimers()
+
+
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Plus.HabboHotel.PathFinding.PathFinder.FindPathReversed(RoomUser RoomUserable, Boolean WhatIsDiag, Gamemap GameLocalMap, Vector2D StartMap, Vector2D EndMap) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Pathfinding\PathFinder.cs:line 83
+   at Plus.HabboHotel.PathFinding.PathFinder.FindPath(RoomUser user, Boolean diag, Gamemap map, Vector2D start, Vector2D end) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Pathfinding\PathFinder.cs:line 54
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle(Int32& idleCount) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\RoomUserManager.cs:line 1369
+   at Plus.HabboHotel.Rooms.Room.ProcessRoom() in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\Room.cs:line 741
+
+
+Error during removing user from room:System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Plus.HabboHotel.Rooms.RoomUserManager.RemoveRoomUser(RoomUser user) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\RoomUserManager.cs:line 468
+   at Plus.HabboHotel.Rooms.RoomUserManager.RemoveUserFromRoom(GameClient session, Boolean notifyClient, Boolean notifyKick) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\RoomUserManager.cs:line 431
+
+
+Sub crash in room cycle: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at Plus.HabboHotel.Rooms.RoomManager.UnloadRoom(Room room, String reason) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\RoomManager.cs:line 738
+   at Plus.HabboHotel.Rooms.Room.OnRoomCrash(Exception e) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\Room.cs:line 1393
+   at Plus.HabboHotel.Rooms.Room.ProcessRoom() in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\Room.cs:line 778
+
+
+Bug during user login: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.GameClients.GameClient.TryLogin(String authTicket) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\GameClients\GameClient.cs:line 186
+
+
+Error during removing user from room:System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Plus.HabboHotel.Rooms.RoomUserManager.RemoveRoomUser(RoomUser user) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\RoomUserManager.cs:line 468
+   at Plus.HabboHotel.Rooms.RoomUserManager.RemoveUserFromRoom(GameClient session, Boolean notifyClient, Boolean notifyKick) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\RoomUserManager.cs:line 431
+
+
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Plus.HabboHotel.PathFinding.PathFinder.FindPathReversed(RoomUser RoomUserable, Boolean WhatIsDiag, Gamemap GameLocalMap, Vector2D StartMap, Vector2D EndMap) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Pathfinding\PathFinder.cs:line 83
+   at Plus.HabboHotel.PathFinding.PathFinder.FindPath(RoomUser user, Boolean diag, Gamemap map, Vector2D start, Vector2D end) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Pathfinding\PathFinder.cs:line 54
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle(Int32& idleCount) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\RoomUserManager.cs:line 1369
+   at Plus.HabboHotel.Rooms.Room.ProcessRoom() in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\Room.cs:line 741
+
+
+Error during removing user from room:System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Plus.HabboHotel.Rooms.RoomUserManager.RemoveRoomUser(RoomUser user) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\RoomUserManager.cs:line 468
+   at Plus.HabboHotel.Rooms.RoomUserManager.RemoveUserFromRoom(GameClient session, Boolean notifyClient, Boolean notifyKick) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\RoomUserManager.cs:line 431
+
+
+Error during removing user from room:System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Plus.HabboHotel.Rooms.RoomUserManager.RemoveRoomUser(RoomUser user) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\RoomUserManager.cs:line 468
+   at Plus.HabboHotel.Rooms.RoomUserManager.RemoveUserFromRoom(GameClient session, Boolean notifyClient, Boolean notifyKick) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\RoomUserManager.cs:line 431
+
+
+Error during removing user from room:System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Plus.HabboHotel.Rooms.RoomUserManager.RemoveRoomUser(RoomUser user) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\RoomUserManager.cs:line 468
+   at Plus.HabboHotel.Rooms.RoomUserManager.RemoveUserFromRoom(GameClient session, Boolean notifyClient, Boolean notifyKick) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\RoomUserManager.cs:line 431
+
+
+Error during removing user from room:System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Plus.HabboHotel.Rooms.RoomUserManager.RemoveRoomUser(RoomUser user) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\RoomUserManager.cs:line 468
+   at Plus.HabboHotel.Rooms.RoomUserManager.RemoveUserFromRoom(GameClient session, Boolean notifyClient, Boolean notifyKick) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\RoomUserManager.cs:line 431
+
+
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Plus.HabboHotel.PathFinding.PathFinder.FindPathReversed(RoomUser RoomUserable, Boolean WhatIsDiag, Gamemap GameLocalMap, Vector2D StartMap, Vector2D EndMap) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Pathfinding\PathFinder.cs:line 83
+   at Plus.HabboHotel.PathFinding.PathFinder.FindPath(RoomUser user, Boolean diag, Gamemap map, Vector2D start, Vector2D end) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Pathfinding\PathFinder.cs:line 54
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle(Int32& idleCount) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\RoomUserManager.cs:line 1369
+   at Plus.HabboHotel.Rooms.Room.ProcessRoom() in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\Room.cs:line 741
+
+
+Error during removing user from room:System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Plus.HabboHotel.Rooms.RoomUserManager.RemoveRoomUser(RoomUser user) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\RoomUserManager.cs:line 468
+   at Plus.HabboHotel.Rooms.RoomUserManager.RemoveUserFromRoom(GameClient session, Boolean notifyClient, Boolean notifyKick) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\RoomUserManager.cs:line 431
+
+
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.Roleplay.Instance.RoleplayInstance.setRoleplayComponents(Boolean SetTimers) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Roleplay\Instance\RoleplayInstance.cs:line 1929
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnUserAdd(RoomUser user) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\RoomUserManager.cs:line 2075
+
+
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.Roleplay.Instance.RoleplayInstance.setRoleplayComponents(Boolean SetTimers) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Roleplay\Instance\RoleplayInstance.cs:line 1929
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnUserAdd(RoomUser user) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\RoomUserManager.cs:line 2075
+
+
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.Roleplay.Instance.RoleplayInstance.setRoleplayComponents(Boolean SetTimers) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Roleplay\Instance\RoleplayInstance.cs:line 1929
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnUserAdd(RoomUser user) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\RoomUserManager.cs:line 2075
+
+
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.Roleplay.Instance.RoleplayInstance.setRoleplayComponents(Boolean SetTimers) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Roleplay\Instance\RoleplayInstance.cs:line 1929
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnUserAdd(RoomUser user) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\RoomUserManager.cs:line 2075
+
+
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.Roleplay.Instance.RoleplayInstance.setRoleplayComponents(Boolean SetTimers) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Roleplay\Instance\RoleplayInstance.cs:line 1929
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnUserAdd(RoomUser user) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\RoomUserManager.cs:line 2075
+
+
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.Roleplay.Instance.RoleplayInstance.setRoleplayComponents(Boolean SetTimers) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Roleplay\Instance\RoleplayInstance.cs:line 1929
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnUserAdd(RoomUser user) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\RoomUserManager.cs:line 2075
+
+
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.Roleplay.Instance.RoleplayInstance.setRoleplayComponents(Boolean SetTimers) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Roleplay\Instance\RoleplayInstance.cs:line 1929
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnUserAdd(RoomUser user) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\RoomUserManager.cs:line 2075
+
+
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.Roleplay.Instance.RoleplayInstance.setRoleplayComponents(Boolean SetTimers) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Roleplay\Instance\RoleplayInstance.cs:line 1929
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnUserAdd(RoomUser user) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\RoomUserManager.cs:line 2075
+
+
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.Roleplay.Instance.RoleplayInstance.setRoleplayComponents(Boolean SetTimers) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Roleplay\Instance\RoleplayInstance.cs:line 1929
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnUserAdd(RoomUser user) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\RoomUserManager.cs:line 2075
+
+
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.Roleplay.Instance.RoleplayInstance.setRoleplayComponents(Boolean SetTimers) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Roleplay\Instance\RoleplayInstance.cs:line 1929
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnUserAdd(RoomUser user) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\RoomUserManager.cs:line 2075
+
+
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.Roleplay.Instance.RoleplayInstance.setRoleplayComponents(Boolean SetTimers) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Roleplay\Instance\RoleplayInstance.cs:line 1929
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnUserAdd(RoomUser user) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\RoomUserManager.cs:line 2075
+
+
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.Roleplay.Instance.RoleplayInstance.setRoleplayComponents(Boolean SetTimers) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Roleplay\Instance\RoleplayInstance.cs:line 1929
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnUserAdd(RoomUser user) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\RoomUserManager.cs:line 2075
+
+
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Plus.HabboHotel.PathFinding.PathFinder.FindPathReversed(RoomUser RoomUserable, Boolean WhatIsDiag, Gamemap GameLocalMap, Vector2D StartMap, Vector2D EndMap) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Pathfinding\PathFinder.cs:line 83
+   at Plus.HabboHotel.PathFinding.PathFinder.FindPath(RoomUser user, Boolean diag, Gamemap map, Vector2D start, Vector2D end) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Pathfinding\PathFinder.cs:line 54
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle(Int32& idleCount) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\RoomUserManager.cs:line 1369
+   at Plus.HabboHotel.Rooms.Room.ProcessRoom() in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\Room.cs:line 741
+
+
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Plus.HabboHotel.PathFinding.PathFinder.FindPathReversed(RoomUser RoomUserable, Boolean WhatIsDiag, Gamemap GameLocalMap, Vector2D StartMap, Vector2D EndMap) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Pathfinding\PathFinder.cs:line 83
+   at Plus.HabboHotel.PathFinding.PathFinder.FindPath(RoomUser user, Boolean diag, Gamemap map, Vector2D start, Vector2D end) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Pathfinding\PathFinder.cs:line 54
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle(Int32& idleCount) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\RoomUserManager.cs:line 1369
+   at Plus.HabboHotel.Rooms.Room.ProcessRoom() in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\Room.cs:line 741
+
+
+Error during removing user from room:System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Plus.HabboHotel.Rooms.RoomUserManager.RemoveRoomUser(RoomUser user) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\RoomUserManager.cs:line 468
+   at Plus.HabboHotel.Rooms.RoomUserManager.RemoveUserFromRoom(GameClient session, Boolean notifyClient, Boolean notifyKick) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\RoomUserManager.cs:line 431
+
+
+Bug during user login: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.GameClients.GameClient.TryLogin(String authTicket) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\GameClients\GameClient.cs:line 186
+
+
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Plus.HabboHotel.PathFinding.PathFinder.FindPathReversed(RoomUser RoomUserable, Boolean WhatIsDiag, Gamemap GameLocalMap, Vector2D StartMap, Vector2D EndMap) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Pathfinding\PathFinder.cs:line 83
+   at Plus.HabboHotel.PathFinding.PathFinder.FindPath(RoomUser user, Boolean diag, Gamemap map, Vector2D start, Vector2D end) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Pathfinding\PathFinder.cs:line 54
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle(Int32& idleCount) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\RoomUserManager.cs:line 1369
+   at Plus.HabboHotel.Rooms.Room.ProcessRoom() in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\Room.cs:line 741
+
+
+Error during removing user from room:System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Plus.HabboHotel.Rooms.RoomUserManager.RemoveRoomUser(RoomUser user) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\RoomUserManager.cs:line 468
+   at Plus.HabboHotel.Rooms.RoomUserManager.RemoveUserFromRoom(GameClient session, Boolean notifyClient, Boolean notifyKick) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\RoomUserManager.cs:line 431
+
+
+Error during removing user from room:System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Plus.HabboHotel.Rooms.RoomUserManager.RemoveRoomUser(RoomUser user) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\RoomUserManager.cs:line 468
+   at Plus.HabboHotel.Rooms.RoomUserManager.RemoveUserFromRoom(GameClient session, Boolean notifyClient, Boolean notifyKick) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\RoomUserManager.cs:line 431
+
+
+Bug during user login: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.GameClients.GameClient.TryLogin(String authTicket) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\GameClients\GameClient.cs:line 186
+
+
+Error during removing user from room:System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Plus.HabboHotel.Rooms.RoomUserManager.RemoveRoomUser(RoomUser user) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\RoomUserManager.cs:line 468
+   at Plus.HabboHotel.Rooms.RoomUserManager.RemoveUserFromRoom(GameClient session, Boolean notifyClient, Boolean notifyKick) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\RoomUserManager.cs:line 431
+
+
+Bug during user login: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.GameClients.GameClient.TryLogin(String authTicket) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\GameClients\GameClient.cs:line 186
+
+
+Error during removing user from room:System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Plus.HabboHotel.Rooms.RoomUserManager.RemoveRoomUser(RoomUser user) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\RoomUserManager.cs:line 468
+   at Plus.HabboHotel.Rooms.RoomUserManager.RemoveUserFromRoom(GameClient session, Boolean notifyClient, Boolean notifyKick) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\RoomUserManager.cs:line 431
+
+
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Plus.HabboHotel.PathFinding.PathFinder.FindPathReversed(RoomUser RoomUserable, Boolean WhatIsDiag, Gamemap GameLocalMap, Vector2D StartMap, Vector2D EndMap) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Pathfinding\PathFinder.cs:line 83
+   at Plus.HabboHotel.PathFinding.PathFinder.FindPath(RoomUser user, Boolean diag, Gamemap map, Vector2D start, Vector2D end) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Pathfinding\PathFinder.cs:line 54
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle(Int32& idleCount) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\RoomUserManager.cs:line 1369
+   at Plus.HabboHotel.Rooms.Room.ProcessRoom() in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\Room.cs:line 741
+
+
+Error during removing user from room:System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Plus.HabboHotel.Rooms.RoomUserManager.RemoveRoomUser(RoomUser user) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\RoomUserManager.cs:line 468
+   at Plus.HabboHotel.Rooms.RoomUserManager.RemoveUserFromRoom(GameClient session, Boolean notifyClient, Boolean notifyKick) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\RoomUserManager.cs:line 431
+
+
+Error during removing user from room:System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Plus.HabboHotel.Rooms.RoomUserManager.RemoveRoomUser(RoomUser user) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\RoomUserManager.cs:line 468
+   at Plus.HabboHotel.Rooms.RoomUserManager.RemoveUserFromRoom(GameClient session, Boolean notifyClient, Boolean notifyKick) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\RoomUserManager.cs:line 431
+
+
+Bug during user login: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.GameClients.GameClient.TryLogin(String authTicket) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\GameClients\GameClient.cs:line 186
+
+
+Bug during user login: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.GameClients.GameClient.TryLogin(String authTicket) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\GameClients\GameClient.cs:line 186
+
+
+Bug during user login: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.GameClients.GameClient.TryLogin(String authTicket) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\GameClients\GameClient.cs:line 186
+
+
+Bug during user login: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.GameClients.GameClient.TryLogin(String authTicket) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\GameClients\GameClient.cs:line 186
+
+
+Bug during user login: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.GameClients.GameClient.TryLogin(String authTicket) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\GameClients\GameClient.cs:line 186
+
+
+Bug during user login: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.GameClients.GameClient.TryLogin(String authTicket) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\GameClients\GameClient.cs:line 186
+
+
+
+   at Plus.HabboHotel.Roleplay.Timers.roleplayTimers.HandleTimer(GameClient Session, String Timer, RoomUser RUser) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Roleplay\Timers\roleplayTimers.cs:line 808
+
+
+
+Bug during user login: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.GameClients.GameClient.TryLogin(String authTicket) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\GameClients\GameClient.cs:line 186
+
+
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.RoomBots.MiscBot.HandleGatePass(RoomItem Gate) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\RoomBots\MiscBot.cs:line 502
+   at Plus.HabboHotel.RoomBots.MiscBot.OnTimerTick() in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\RoomBots\MiscBot.cs:line 1095
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle(Int32& idleCount) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\RoomUserManager.cs:line 1469
+   at Plus.HabboHotel.Rooms.Room.ProcessRoom() in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\Room.cs:line 741
+
+
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.RoomBots.MiscBot.HandleGatePass(RoomItem Gate) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\RoomBots\MiscBot.cs:line 502
+   at Plus.HabboHotel.RoomBots.MiscBot.OnTimerTick() in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\RoomBots\MiscBot.cs:line 1095
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle(Int32& idleCount) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\RoomUserManager.cs:line 1469
+   at Plus.HabboHotel.Rooms.Room.ProcessRoom() in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\Room.cs:line 741
+
+
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.RoomBots.MiscBot.HandleGatePass(RoomItem Gate) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\RoomBots\MiscBot.cs:line 502
+   at Plus.HabboHotel.RoomBots.MiscBot.OnTimerTick() in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\RoomBots\MiscBot.cs:line 1095
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle(Int32& idleCount) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\RoomUserManager.cs:line 1469
+   at Plus.HabboHotel.Rooms.Room.ProcessRoom() in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\Room.cs:line 741
+
+
+Bug during user login: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.GameClients.GameClient.TryLogin(String authTicket) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\GameClients\GameClient.cs:line 186
+
+
+Bug during user login: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.GameClients.GameClient.TryLogin(String authTicket) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\GameClients\GameClient.cs:line 186
+
+
+Bug during user login: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.GameClients.GameClient.TryLogin(String authTicket) in C:\Users\lanor_000\Documents\RaidRp Emulator v3\Roleplay\Plus Emulator\HabboHotel\GameClients\GameClient.cs:line 186
+
+
+Bug during user login: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.GameClients.GameClient.TryLogin(String authTicket) in C:\Users\lanor_000\Documents\RaidRp Emulator v3\Roleplay\Plus Emulator\HabboHotel\GameClients\GameClient.cs:line 186
+
+
+Bug during user login: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.GameClients.GameClient.TryLogin(String authTicket) in C:\Users\lanor_000\Documents\RaidRp Emulator v3\Roleplay\Plus Emulator\HabboHotel\GameClients\GameClient.cs:line 186
+

@@ -1,0 +1,142 @@
+
+Error in thread Room cycle task for room 2: 
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Plus.HabboHotel.PathFinding.PathFinder.FindPathReversed(RoomUser RoomUserable, Boolean WhatIsDiag, Gamemap GameLocalMap, Vector2D StartMap, Vector2D EndMap) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Pathfinding\PathFinder.cs:line 83
+   at Plus.HabboHotel.PathFinding.PathFinder.FindPath(RoomUser user, Boolean diag, Gamemap map, Vector2D start, Vector2D end) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Pathfinding\PathFinder.cs:line 54
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle(Int32& idleCount) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\RoomUserManager.cs:line 1367
+   at Plus.HabboHotel.Rooms.Room.ProcessRoom() in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\Room.cs:line 741
+
+
+Error in thread Room cycle task for room 2: 
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Plus.HabboHotel.PathFinding.PathFinder.FindPathReversed(RoomUser RoomUserable, Boolean WhatIsDiag, Gamemap GameLocalMap, Vector2D StartMap, Vector2D EndMap) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Pathfinding\PathFinder.cs:line 83
+   at Plus.HabboHotel.PathFinding.PathFinder.FindPath(RoomUser user, Boolean diag, Gamemap map, Vector2D start, Vector2D end) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Pathfinding\PathFinder.cs:line 54
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle(Int32& idleCount) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\RoomUserManager.cs:line 1369
+   at Plus.HabboHotel.Rooms.Room.ProcessRoom() in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\Room.cs:line 741
+
+
+Error in thread Room cycle task for room 2: 
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Plus.HabboHotel.PathFinding.PathFinder.FindPathReversed(RoomUser RoomUserable, Boolean WhatIsDiag, Gamemap GameLocalMap, Vector2D StartMap, Vector2D EndMap) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Pathfinding\PathFinder.cs:line 83
+   at Plus.HabboHotel.PathFinding.PathFinder.FindPath(RoomUser user, Boolean diag, Gamemap map, Vector2D start, Vector2D end) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Pathfinding\PathFinder.cs:line 54
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle(Int32& idleCount) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\RoomUserManager.cs:line 1369
+   at Plus.HabboHotel.Rooms.Room.ProcessRoom() in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\Room.cs:line 741
+
+
+Error in thread Room cycle task for room 100000: 
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle(Int32& idleCount) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\RoomUserManager.cs:line 1469
+   at Plus.HabboHotel.Rooms.Room.ProcessRoom() in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\Room.cs:line 741
+
+
+Error in thread Room cycle task for room 2: 
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Plus.HabboHotel.PathFinding.PathFinder.FindPathReversed(RoomUser RoomUserable, Boolean WhatIsDiag, Gamemap GameLocalMap, Vector2D StartMap, Vector2D EndMap) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Pathfinding\PathFinder.cs:line 83
+   at Plus.HabboHotel.PathFinding.PathFinder.FindPath(RoomUser user, Boolean diag, Gamemap map, Vector2D start, Vector2D end) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Pathfinding\PathFinder.cs:line 54
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle(Int32& idleCount) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\RoomUserManager.cs:line 1369
+   at Plus.HabboHotel.Rooms.Room.ProcessRoom() in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\Room.cs:line 741
+
+
+Error in thread Room cycle task for room 2: 
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Plus.HabboHotel.PathFinding.PathFinder.FindPathReversed(RoomUser RoomUserable, Boolean WhatIsDiag, Gamemap GameLocalMap, Vector2D StartMap, Vector2D EndMap) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Pathfinding\PathFinder.cs:line 83
+   at Plus.HabboHotel.PathFinding.PathFinder.FindPath(RoomUser user, Boolean diag, Gamemap map, Vector2D start, Vector2D end) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Pathfinding\PathFinder.cs:line 54
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle(Int32& idleCount) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\RoomUserManager.cs:line 1369
+   at Plus.HabboHotel.Rooms.Room.ProcessRoom() in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\Room.cs:line 741
+
+
+Error in thread Room cycle task for room 2: 
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Plus.HabboHotel.PathFinding.PathFinder.FindPathReversed(RoomUser RoomUserable, Boolean WhatIsDiag, Gamemap GameLocalMap, Vector2D StartMap, Vector2D EndMap) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Pathfinding\PathFinder.cs:line 83
+   at Plus.HabboHotel.PathFinding.PathFinder.FindPath(RoomUser user, Boolean diag, Gamemap map, Vector2D start, Vector2D end) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Pathfinding\PathFinder.cs:line 54
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle(Int32& idleCount) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\RoomUserManager.cs:line 1369
+   at Plus.HabboHotel.Rooms.Room.ProcessRoom() in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\Room.cs:line 741
+
+
+Error in thread Room cycle task for room 2: 
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Plus.HabboHotel.PathFinding.PathFinder.FindPathReversed(RoomUser RoomUserable, Boolean WhatIsDiag, Gamemap GameLocalMap, Vector2D StartMap, Vector2D EndMap) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Pathfinding\PathFinder.cs:line 83
+   at Plus.HabboHotel.PathFinding.PathFinder.FindPath(RoomUser user, Boolean diag, Gamemap map, Vector2D start, Vector2D end) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Pathfinding\PathFinder.cs:line 54
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle(Int32& idleCount) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\RoomUserManager.cs:line 1369
+   at Plus.HabboHotel.Rooms.Room.ProcessRoom() in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\Room.cs:line 741
+
+
+Error in thread Room cycle task for room 2: 
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Plus.HabboHotel.PathFinding.PathFinder.FindPathReversed(RoomUser RoomUserable, Boolean WhatIsDiag, Gamemap GameLocalMap, Vector2D StartMap, Vector2D EndMap) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Pathfinding\PathFinder.cs:line 83
+   at Plus.HabboHotel.PathFinding.PathFinder.FindPath(RoomUser user, Boolean diag, Gamemap map, Vector2D start, Vector2D end) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Pathfinding\PathFinder.cs:line 54
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle(Int32& idleCount) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\RoomUserManager.cs:line 1369
+   at Plus.HabboHotel.Rooms.Room.ProcessRoom() in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\Room.cs:line 741
+
+
+Error in thread Room cycle task for room 2: 
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Plus.HabboHotel.PathFinding.PathFinder.FindPathReversed(RoomUser RoomUserable, Boolean WhatIsDiag, Gamemap GameLocalMap, Vector2D StartMap, Vector2D EndMap) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Pathfinding\PathFinder.cs:line 83
+   at Plus.HabboHotel.PathFinding.PathFinder.FindPath(RoomUser user, Boolean diag, Gamemap map, Vector2D start, Vector2D end) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Pathfinding\PathFinder.cs:line 54
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle(Int32& idleCount) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\RoomUserManager.cs:line 1369
+   at Plus.HabboHotel.Rooms.Room.ProcessRoom() in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\Room.cs:line 741
+
+
+Error in thread Room cycle task for room 2: 
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Plus.HabboHotel.PathFinding.PathFinder.FindPathReversed(RoomUser RoomUserable, Boolean WhatIsDiag, Gamemap GameLocalMap, Vector2D StartMap, Vector2D EndMap) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Pathfinding\PathFinder.cs:line 83
+   at Plus.HabboHotel.PathFinding.PathFinder.FindPath(RoomUser user, Boolean diag, Gamemap map, Vector2D start, Vector2D end) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Pathfinding\PathFinder.cs:line 54
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle(Int32& idleCount) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\RoomUserManager.cs:line 1369
+   at Plus.HabboHotel.Rooms.Room.ProcessRoom() in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\Room.cs:line 741
+
+
+Error in thread Room cycle task for room 2: 
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Plus.HabboHotel.PathFinding.PathFinder.FindPathReversed(RoomUser RoomUserable, Boolean WhatIsDiag, Gamemap GameLocalMap, Vector2D StartMap, Vector2D EndMap) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Pathfinding\PathFinder.cs:line 83
+   at Plus.HabboHotel.PathFinding.PathFinder.FindPath(RoomUser user, Boolean diag, Gamemap map, Vector2D start, Vector2D end) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Pathfinding\PathFinder.cs:line 54
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle(Int32& idleCount) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\RoomUserManager.cs:line 1369
+   at Plus.HabboHotel.Rooms.Room.ProcessRoom() in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\Room.cs:line 741
+
+
+Error in thread Room cycle task for room 9: 
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Plus.HabboHotel.PathFinding.PathFinder.FindPathReversed(RoomUser RoomUserable, Boolean WhatIsDiag, Gamemap GameLocalMap, Vector2D StartMap, Vector2D EndMap) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Pathfinding\PathFinder.cs:line 83
+   at Plus.HabboHotel.PathFinding.PathFinder.FindPath(RoomUser user, Boolean diag, Gamemap map, Vector2D start, Vector2D end) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Pathfinding\PathFinder.cs:line 54
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle(Int32& idleCount) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\RoomUserManager.cs:line 1369
+   at Plus.HabboHotel.Rooms.Room.ProcessRoom() in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\Room.cs:line 741
+
+
+Error in thread Room cycle task for room 2: 
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Plus.HabboHotel.PathFinding.PathFinder.FindPathReversed(RoomUser RoomUserable, Boolean WhatIsDiag, Gamemap GameLocalMap, Vector2D StartMap, Vector2D EndMap) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Pathfinding\PathFinder.cs:line 83
+   at Plus.HabboHotel.PathFinding.PathFinder.FindPath(RoomUser user, Boolean diag, Gamemap map, Vector2D start, Vector2D end) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Pathfinding\PathFinder.cs:line 54
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle(Int32& idleCount) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\RoomUserManager.cs:line 1369
+   at Plus.HabboHotel.Rooms.Room.ProcessRoom() in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\Room.cs:line 741
+
+
+Error in thread Room cycle task for room 9: 
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Plus.HabboHotel.PathFinding.PathFinder.FindPathReversed(RoomUser RoomUserable, Boolean WhatIsDiag, Gamemap GameLocalMap, Vector2D StartMap, Vector2D EndMap) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Pathfinding\PathFinder.cs:line 83
+   at Plus.HabboHotel.PathFinding.PathFinder.FindPath(RoomUser user, Boolean diag, Gamemap map, Vector2D start, Vector2D end) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Pathfinding\PathFinder.cs:line 54
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle(Int32& idleCount) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\RoomUserManager.cs:line 1369
+   at Plus.HabboHotel.Rooms.Room.ProcessRoom() in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\Room.cs:line 741
+
+
+Error in thread Room cycle task for room 24: 
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.RoomBots.MiscBot.HandleGatePass(RoomItem Gate) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\RoomBots\MiscBot.cs:line 502
+   at Plus.HabboHotel.RoomBots.MiscBot.OnTimerTick() in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\RoomBots\MiscBot.cs:line 1095
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle(Int32& idleCount) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\RoomUserManager.cs:line 1469
+   at Plus.HabboHotel.Rooms.Room.ProcessRoom() in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\Room.cs:line 741
+
+
+Error in thread Room cycle task for room 24: 
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.RoomBots.MiscBot.HandleGatePass(RoomItem Gate) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\RoomBots\MiscBot.cs:line 502
+   at Plus.HabboHotel.RoomBots.MiscBot.OnTimerTick() in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\RoomBots\MiscBot.cs:line 1095
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle(Int32& idleCount) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\RoomUserManager.cs:line 1469
+   at Plus.HabboHotel.Rooms.Room.ProcessRoom() in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\Room.cs:line 741
+
+
+Error in thread Room cycle task for room 24: 
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.RoomBots.MiscBot.HandleGatePass(RoomItem Gate) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\RoomBots\MiscBot.cs:line 502
+   at Plus.HabboHotel.RoomBots.MiscBot.OnTimerTick() in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\RoomBots\MiscBot.cs:line 1095
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle(Int32& idleCount) in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\RoomUserManager.cs:line 1469
+   at Plus.HabboHotel.Rooms.Room.ProcessRoom() in C:\Users\lanor_000\Documents\RageRP\Roleplay\Plus Emulator\HabboHotel\Rooms\Room.cs:line 741
+
